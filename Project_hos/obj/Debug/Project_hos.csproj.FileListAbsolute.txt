@@ -1,0 +1,82 @@
+c:\users\hp\documents\visual studio 2012\Projects\Project_hos\Project_hos\bin\Debug\Project_hos.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\Project_hos\Project_hos\bin\Debug\hospital.mdf
+c:\users\hp\documents\visual studio 2012\Projects\Project_hos\Project_hos\bin\Debug\hospital_log.ldf
+c:\users\hp\documents\visual studio 2012\Projects\Project_hos\Project_hos\bin\Debug\Project_hos.exe
+c:\users\hp\documents\visual studio 2012\Projects\Project_hos\Project_hos\bin\Debug\Project_hos.pdb
+c:\users\hp\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.add_booking.resources
+c:\users\hp\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.add_patient.resources
+c:\users\hp\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.UserControl1.resources
+c:\users\hp\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.exe
+c:\users\hp\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.pdb
+c:\users\hp\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.UserControl2.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.add_file.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.query_dept.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.add_doctor.resources
+D:\Project_hos\Project_hos\bin\Debug\Project_hos.exe.config
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.exe
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.pdb
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.csprojResolveAssemblyReference.cache
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.add_booking.resources
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.add_patient.resources
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.add_file.resources
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.Formemp.resources
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.login_doctor.resources
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.login_emp.resources
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.login_manger.resources
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.query_dept.resources
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.add_doctor.resources
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.UserControl2.resources
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.Properties.Resources.resources
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.UserControl1.resources
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.welcome_doctor.resources
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.welcome_manger.resources
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.csproj.GenerateResource.Cache
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.add_booking1.resources
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.add_dept.resources
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.add_patient1.resources
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.query_doctor.resources
+D:\Project_hos\Project_hos\obj\Debug\Project_hos.welcome_emp.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.add_booking1.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.add_dept.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.add_patient1.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.Formemp.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.login_doctor.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.login_emp.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.login_manger.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.query_doctor.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.welcome_doctor.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.welcome_emp.resources
+C:\Users\HP\documents\visual studio 2012\Projects\Project_hos\Project_hos\obj\Debug\Project_hos.welcome_manger.resources
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\bin\Debug\Project_hos.exe.config
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.exe
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.pdb
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\bin\Debug\hospital.mdf
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\bin\Debug\hospital_log.ldf
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\bin\Debug\Project_hos.exe
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\bin\Debug\Project_hos.pdb
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.csprojResolveAssemblyReference.cache
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.add_booking.resources
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.add_booking1.resources
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.add_dept.resources
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.add_patient.resources
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.add_file.resources
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.add_patient1.resources
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.Formemp.resources
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.login_doctor.resources
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.login_emp.resources
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.login_manger.resources
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.query_dept.resources
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.add_doctor.resources
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.query_doctor.resources
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.UserControl2.resources
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.Properties.Resources.resources
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.UserControl1.resources
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.welcome_doctor.resources
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.welcome_emp.resources
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.welcome_manger.resources
+E:\كل الملفات\المشاريع\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.csproj.GenerateResource.Cache
+E:\All Files\Projects\مشروع c#\Project_hos\Project_hos\bin\Debug\Project_hos.exe.config
+E:\All Files\Projects\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.exe
+E:\All Files\Projects\مشروع c#\Project_hos\Project_hos\obj\Debug\Project_hos.pdb
